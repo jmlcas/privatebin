@@ -1,7 +1,6 @@
-# privatebin
-Privatebin - Compartir notas - Docker compose
+# Privatebin
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 chmod 777 /privatebin-data/
 
